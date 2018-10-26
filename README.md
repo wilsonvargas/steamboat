@@ -12,9 +12,9 @@ Built with WPF and SQLite with support for
 
 |Platform|Version|
 | ------------------- | :------------------: |
-|Windows 7 UWP|10+|
-|Windows 8.1 UWP|10+|
-|Windows 10 UWP|10+|
+|Windows 7 ||
+|Windows 8.1 ||
+|Windows 10 |10+|
 
 ## How to use
 
