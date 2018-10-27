@@ -27,7 +27,7 @@ To add an account you should clicked "Add Account" and write your data.
 >To Edit or Remove any account you should click left to selected account and select Edit/Remove option
 
 
-## Disclamer
+## Disclaimer
 
 > ### Steam account switcher does not send or store the accounts in another repository. All accounts saved with this app are stored in a local database.
 
